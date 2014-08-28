@@ -1,6 +1,22 @@
 {
   "type": "FeatureCollection",
   "features": [
+  {
+      "type": "Feature",
+      "properties": {
+        "title": "Inn at the Convention Center",
+        "address": "420 North East Holladay Street Portland (Oregon), OR 97232, United States of America",
+        "marker-symbol": "lodging",
+        "marker-color": "#5F3B23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66119211912155,
+          45.529837283256114
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
